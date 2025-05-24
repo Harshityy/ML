@@ -6,4 +6,4 @@ X, y = load_iris(return_X_y=True)
 clf = LogisticRegression(max_iter=200)
 clf.fit(X, y)
 
-print("Model trained")
+print("Model trained succesfully")

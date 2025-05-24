@@ -21,4 +21,4 @@ jobs:
         run: python train_model.py
 
       - name: Print success message
-        run: echo "Training completed successfully! 🎉"
+        run: echo "Training completed successfully!"
